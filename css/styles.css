@@ -104,10 +104,28 @@ body{
 .input-div textarea{
     margin-top: 20px;
     height: 100px;
-    width: 97%;
+    width: 98%;
     font-size: 16px;
     padding-left: 5px;
     border: none;
+}
+.submit-button{
+    position: relative;
+    height: 40px;
+    width: 95%;
+    margin: 40px auto;
+}
+button{
+    position: relative;
+    height: 45px;
+    margin: 0 auto;
+    width: 99%;
+    border-radius: 2px;
+    box-sizing: border-box;
+    font-size: 16px;
+    background-color: #36AF64;
+    border: none;
+    color: #f3f3f3;
 }
     
 @media screen and (max-width: 1024px){
