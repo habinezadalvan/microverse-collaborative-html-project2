@@ -1,0 +1,21 @@
+body::before {
+    content: '';
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    background: linear-gradient( 115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7) ), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#title{
+    text-align: center;
+    color: #f3f3f3;
+    font-weight: 400;
+    margin-top: 2.5rem;
+}
