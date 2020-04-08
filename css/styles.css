@@ -30,3 +30,13 @@ body{
 
 
 }
+
+#survey-form{
+    position: relative;
+    width: 60%;
+    margin: 5px auto;
+    background: #292948;
+    padding: 2.5rem 0.625rem;
+    border-radius: 0.25rem;
+    box-sizing: border-box;
+}
