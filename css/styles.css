@@ -90,13 +90,13 @@ body{
     line-height: inherit;
     
 }
-.select-radio-div1{
+.input-type-div{
     color:#f3f3f3;
     padding: 12px;
     margin-top: -30px;
 }
 
-.select-radio-div1 label{
+.input-type-div label{
     font-family: 'Poppins', sans-serif;
     display: block;
     padding: 5px 0;
